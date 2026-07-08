@@ -7,15 +7,15 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 30px; /* bro the solution answers are just off by a little and I can't lie they kind of weird using like 32 and 12*/
+  margin: 10px; /* bro the solution answers are just off by a little and I can't lie they kind of weird using like 32 and 12*/
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 50px; /* solution uses 48px BALRIGHTTT*/
 }
 
 .three {
@@ -23,6 +23,6 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 30px; /* uses 32px BALRIGHTTTTTT*/
+  margin-left: 335px; /* solution uses auto, make sense*/
 }

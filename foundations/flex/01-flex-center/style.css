@@ -15,4 +15,5 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+  /* you could also do margin: auto here to center*/
 }

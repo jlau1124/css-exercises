@@ -51,19 +51,19 @@ ul {
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; 
   padding: 8px;
 }
 
 ul {
-  display: flex;
+  display: flex; 
   margin: 0;
   padding: 0;
   gap: 16px;
 }
 
 .left, .right {
-  display: flex;
+  display: flex; 
   align-items: center;
   gap: 16px;
 }

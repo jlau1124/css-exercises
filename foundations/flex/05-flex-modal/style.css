@@ -26,9 +26,9 @@ body {
   min-height: 190px;
 }
 
-.modal > * {
+/* .modal > * { */
   /* outline: 1px solid red; */
-}
+/* } */
 
 
 .icon {
@@ -86,9 +86,9 @@ button.cancel {
   margin: 4px;
 }
 
-.main-container > * {
+/* .main-container > * { */
   /* outline: 1px solid green; */
-}
+/* } */
 
 .header-button{
   /* outline: 1px orange solid; */
